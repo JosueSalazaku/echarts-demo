@@ -11,6 +11,7 @@ body {
   height: 100vh;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   font-weight: 400;
+  background: #000;
 }
 
 .container {
@@ -20,4 +21,11 @@ body {
   align-items: center;
   width: 100vw;
   height: 100vh;
+}
+
+#Chart1 {
+  margin-top: 50px;
+  width: 600px;
+  height: 400px;
+  color: rgb(255, 255, 255);
 }
