@@ -19,7 +19,7 @@ const option = {
     {
       name: "sales",
       type: "bar",
-      data: [5, 20, 36, 10, 10, 20],
+      data: [55, 20, 36, 10, 10, 20],
     },
   ],
 };
